@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:yandex="http://news.yandex.ru" xmlns:media="http://search.yahoo.com/mrss/" xmlns:turbo="http://turbo.yandex.ru" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss">
 <channel>
-<turbo:analytics id="17990581" type="Yandex" params=""></turbo:analytics>
-<turbo:analytics type="LiveInternet" params="1gai.ru"></turbo:analytics>
-<yandex:adNetwork type="Yandex" id="R-A-239974-24" turbo-ad-id="ad_place_number-1"></yandex:adNetwork>
-<yandex:adNetwork type="Yandex" id="R-A-239974-25" turbo-ad-id="ad_place_number-2"></yandex:adNetwork>
-<yandex:adNetwork type="Yandex" id="R-A-239974-26" turbo-ad-id="ad_place_number-3"></yandex:adNetwork>
-<yandex:adNetwork type="Yandex" id="R-A-239974-34" turbo-ad-id="ad_place_number-4"></yandex:adNetwork>
-<yandex:adNetwork type="Yandex" id="R-A-239974-35" turbo-ad-id="ad_place_number-5"></yandex:adNetwork>
-<yandex:adNetwork type="Yandex" id="R-A-239974-36" turbo-ad-id="ad_place_number-6"></yandex:adNetwork>
-<yandex:adNetwork type="Yandex" id="R-A-239974-37" turbo-ad-id="ad_place_number-7"></yandex:adNetwork>
-<yandex:adNetwork type="Yandex" id="R-A-239974-38" turbo-ad-id="ad_place_number-8"></yandex:adNetwork>
-<yandex:adNetwork type="Yandex" id="R-A-239974-39" turbo-ad-id="ad_place_number-9"></yandex:adNetwork>
-<yandex:adNetwork type="Yandex" id="R-A-239974-40" turbo-ad-id="ad_place_number-10"></yandex:adNetwork>
-<title>База знаний - 1Gai.Ru - Советы и технологии, автомобили, новости, статьи, фотографии</title>
+<title>Неологизмы в Русском языке </title>
 <link>https://1gai.ru/</link>
 <language>ru</language>
 <image>
